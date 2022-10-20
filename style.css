@@ -98,3 +98,14 @@ i {
 .social__links ul .github:hover{
     background: #333;
 } 
+
+
+@media (max-height: 700px){
+
+    .head__section{
+        margin: 0;
+    }
+    .head__section img{
+        width: 5rem;
+    }
+}
