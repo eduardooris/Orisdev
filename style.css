@@ -43,7 +43,7 @@ i {
 }
 
 .name{
-    padding-top: 15px;
+    padding-top: 40px;
     color: white;
 }
 
@@ -109,6 +109,10 @@ i {
 
 
 @media (max-height: 700px){
+
+    .name{
+        padding: 5px;
+    }
 
     .head__section{
         margin: 0;
