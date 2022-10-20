@@ -41,11 +41,19 @@ i {
     width: 10rem;
     border-radius: 50%;
 }
-.head__section p{
+
+.name{
     padding-top: 25px;
+    color: white;
+}
+
+.info{
+    color:rgba(0, 217, 255, 0.856);
+}
+
+.head__section p{
     text-align: center;
 	font-size: 1.5em;
-    color: rgba(0, 217, 255, 0.856);
 }
 
 .social__links {
