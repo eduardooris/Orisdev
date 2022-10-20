@@ -15,6 +15,10 @@ body{
 	background-color: black;
   }
 
+i {
+    color: rgba(0, 217, 255, 0.856);
+}
+
 .container{
     display: flex;
     flex-direction: column;
@@ -27,19 +31,21 @@ body{
 .head__section{
     display: flex;
     flex-direction: column;
+    margin-bottom: 55px;
 }
 
 
 .head__section img{
     display:block;
     margin: 0 auto;
-    width: 5rem;
+    width: 10rem;
     border-radius: 50%;
 }
 .head__section p{
+    padding-top: 25px;
     text-align: center;
 	font-size: 1.5em;
-    color: rgb(5, 120, 252);
+    color: rgba(0, 217, 255, 0.856);
 }
 
 .social__links {
